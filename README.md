@@ -17,5 +17,7 @@ $bash saycheese.sh
 YOUTUBE : https://www.youtube.com/channel/UCEWoDUnBWFmTp4KcJBH41CA?view_as=subscriber
 
 #Like
+
 #Share
+
 #Subscribe
