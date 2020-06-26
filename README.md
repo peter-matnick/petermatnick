@@ -1,6 +1,6 @@
 #TERMUX INSTALLING;
 
-$pkg install git
+$pkg install git\n
 $pkg install wget
 $pkg install php
 $pkg install httrak
